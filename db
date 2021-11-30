@@ -1,0 +1,21 @@
+{"universities":[
+  {
+    "id":1,
+    "country":"indi",
+    "state-province":"u.k",
+    "name":"DIT"
+  } , 
+  {
+    "id":2,
+    "country":"indi",
+    "state-province":"u.k",
+    "name":"DIT"
+  } , 
+  {
+    "id":3,
+    "country":"indi",
+    "state-province":"u.k",
+    "name":"DIT"
+  }  
+]
+}
